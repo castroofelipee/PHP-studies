@@ -1,0 +1,7 @@
+{
+    "name": "php-st/php",
+    "description": "Estudos pessoais em php",
+    "require": {
+        "php": ">=8.3"
+    }
+}
